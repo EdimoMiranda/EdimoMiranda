@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá!👋
 
-<!--
-**EdimoMiranda/EdimoMiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil 😄
 
-Here are some ideas to get you started:
+- 🏡São Paulo, SP
+- ♈ 27 anos
+- 🖤 #academia #futebol #natação #esporte🏋🏽‍♂️⚽🏊🏼‍♂️
+- 💼 Analista II Int Seg - TecBan🏧
+- 🎖️Reservista da Força Aérea Brasileira✈️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Meu principal projeto em desenvolvimento - FIAP
+
+- https://github.com/EdimoMiranda/fiap-projeto-fintech.git
